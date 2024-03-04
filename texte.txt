@@ -3,7 +3,7 @@ Fichier : texte.odt dans /temp/text01
 
 
 
-1 ligne 1 
+1 ligne AA1
 2 ligne 2
 3 ligne 3
 4 ligne 4
